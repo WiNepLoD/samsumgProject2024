@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="lvltext0" >ноль
+ </string>
+    <string name="lvltext1" >один
+ </string>
+    <string name="lvltext2" >два
+ </string>
+    <string name="lvltext3" >три
+ </string>
+    <string name="lvltext4" >четыре
+ </string>
+    <string name="lvltext5" >пять
+ </string>
+    <string name="lvltext6" >шесть
+ </string>
+    <string name="lvltext7" >семь
+ </string>
+    <string name="lvltext8" >восемь
+ </string>
+    <string name="lvltext9" >девять
+ </string>
+
+    <string name="lvl2text0" >а нету :)
+ </string>
+    <string name="lvl2text1" >один
+ </string>
+    <string name="lvl2text2" >два
+ </string>
+    <string name="lvl2text3" >три
+ </string>
+    <string name="lvl2text4" >четыре
+ </string>
+    <string name="lvl2text5" >пять
+ </string>
+    <string name="lvl2text6" >шесть
+ </string>
+    <string name="lvl2text7" >семь
+ </string>
+    <string name="lvl2text8" >восемь
+ </string>
+    <string name="lvl2text9" >девять
+ </string>
+
+    <string name="lvl3text0" >уkf
+ </string>
+    <string name="lvl3text1" >два sdfла
+ </string>
+    <string name="lvl3text2" >тsdf угdf
+ </string>
+    <string name="lvl3text3" >чеfdе углsf
+ </string>
+    <string name="lvl3text4" >пяsd углdf
+ </string>
+    <string name="lvl3text5" >шеdfь углsdf
+ </string>
+    <string name="lvl3text6" >сеsfь sfлов
+ </string>
+    <string name="lvl3text7" >воsdfмь углsf
+ </string>
+    <string name="lvl3text8" >девsfdь угsdfв
+ </string>
+    <string name="lvl3text9" >деsfь углоsf
+ </string>
+
+    <string name="lvl4text0" >это ты
+ </string>
+    <string name="lvl4text1" >ничего
+ </string>
+    <string name="lvl4text2" >ой
+ </string>
+    <string name="lvl4text3" >блин
+ </string>
+    <string name="lvl4text4" >ойойой
+ </string>
+    <string name="lvl4text5" >капец
+ </string>
+    <string name="lvl4text6" >мне конец..
+ </string>
+    <string name="lvl4text7" >что делать??
+ </string>
+    <string name="lvl4text8" >БЛИИНН
+ </string>
+    <string name="lvl4text9" >ПОКА
+ </string>
+
+    <string name="lvl5text0" >смайлик
+ </string>
+    <string name="lvl5text1" >смайлик
+ </string>
+    <string name="lvl5text2" >смайлик
+ </string>
+    <string name="lvl5text3" >смайлик
+ </string>
+    <string name="lvl5text4" >смайлик
+ </string>
+    <string name="lvl5text5" >смайлик
+ </string>
+    <string name="lvl5text6" >смайлик
+ </string>
+    <string name="lvl5text7" >смайлик
+ </string>
+    <string name="lvl5text8" >смайлик
+ </string>
+    <string name="lvl5text9" >смайлик
+ </string>
+
+    <string name="lvl6text0" >девять
+ </string>
+    <string name="lvl6text1" >восемь
+ </string>
+    <string name="lvl6text2" >семь
+ </string>
+    <string name="lvl6text3" >шесть
+ </string>
+    <string name="lvl6text4" >пять
+ </string>
+    <string name="lvl6text5" >четыре
+ </string>
+    <string name="lvl6text6" >три
+ </string>
+    <string name="lvl6text7" >два
+ </string>
+    <string name="lvl6text8" >один
+ </string>
+    <string name="lvl6text9" >ноль
+ </string>
+
+    <string name="lvl7text0" >девять
+ </string>
+    <string name="lvl7text1" >восемь
+ </string>
+    <string name="lvl7text2" >семь
+ </string>
+    <string name="lvl7text3" >шесть
+ </string>
+    <string name="lvl7text4" >пять
+ </string>
+    <string name="lvl7text5" >четыре
+ </string>
+    <string name="lvl7text6" >три
+ </string>
+    <string name="lvl7text7" >два
+ </string>
+    <string name="lvl7text8" >один
+ </string>
+    <string name="lvl7text9" >а нету)
+ </string>
+
+    <string name="lvl8text0" > xxxxx
+ </string>
+    <string name="lvl8text1" > xxxxx
+ </string>
+    <string name="lvl8text2" > xxxxx
+ </string>
+    <string name="lvl8text3" > xxxxx
+ </string>
+    <string name="lvl8text4" > xxxxx
+ </string>
+    <string name="lvl8text5" > xxxxx
+ </string>
+    <string name="lvl8text6" > xxxxx
+ </string>
+    <string name="lvl8text7" > xxxxx
+ </string>
+    <string name="lvl8text8" > xxxxx
+ </string>
+    <string name="lvl8text9" > xxxxx
+ </string>
+
+    <string name="lvl9text0" > xxxxx
+ </string>
+    <string name="lvl9text1" > xxxxx
+ </string>
+    <string name="lvl9text2" > xxxxx
+ </string>
+    <string name="lvl9text3" > xxxxx
+ </string>
+    <string name="lvl9text4" > xxxxx
+ </string>
+    <string name="lvl9text5" > xxxxx
+ </string>
+    <string name="lvl9text6" > xxxxx
+ </string>
+    <string name="lvl9text7" > xxxxx
+ </string>
+    <string name="lvl9text8" > xxxxx
+ </string>
+    <string name="lvl9text9" > xxxxx
+ </string>
+
+    <string name="lvl10text0" > xxxxx
+ </string>
+    <string name="lvl10text1" > xxxxx
+ </string>
+    <string name="lvl10text2" > xxxxx
+ </string>
+    <string name="lvl10text3" > xxxxx
+ </string>
+    <string name="lvl10text4" > xxxxx
+ </string>
+    <string name="lvl10text5" > xxxxx
+ </string>
+    <string name="lvl10text6" > xxxxx
+ </string>
+    <string name="lvl10text7" > xxxxx
+ </string>
+    <string name="lvl10text8" > xxxxx
+ </string>
+    <string name="lvl10text9" > xxxxx
+ </string>
+
+
+
+
+
+
+
+</resources>

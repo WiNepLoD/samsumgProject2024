@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone" >Выбери наибольшее чилсло.\nВоспросы могут повторяться, пока не достигните 20 положительный ответов</string>
+    <string name="leveloneEnd">"Интересный факт: только ты прошел 1 уровень :) \n
+    ты просто БОСС "</string>
+    <string name="leveltwo" >О нет, надо посчитать кубики! \nпройди без ошибок 20 уровней и ты будшь крутым)</string>
+    <string name="leveltwoEnd">"Интересный факт: только ты прошел 2 уровень :) \n
+    ЭТО ЖЕСТЬЬЬЬ "</string>
+    <string name="leveltre" >усложним задачу, Считай теперь углы! все так же \n20 заданий и мы в расчете</string>
+    <string name="leveltreEnd">"хмммм, ладно... :) \n
+    повезло"</string>
+    <string name="leveltho" >блин... я разбил стекло.. сравни и выбери где больше трещин \n20 заданий все так же</string>
+    <string name="levelthoEnd">"Ты крутойй :) \n
+    честно :3 "</string>
+    <string name="levelviwe" >У нас тут завелись грустные смайлики, найди их! \n ты уже все знаешь</string>
+    <string name="levelviweEnd">"так держать! :) \n
+    100 социал рейтинг :3 "</string>
+    <string name="levelvSix" >теперь все наобород \n ты все поймешь)</string>
+    <string name="levelsixEnd">"так держать! :) \n
+    120 социал рейтинг :3 "</string>
+    <string name="levelvSeven" >теперь все наобород \n ты все поймешь)</string>
+    <string name="levelSevenEnd">"так держать! :) \n
+    120 социал рейтинг :3 "</string>
+    <string name="levelVosi" >теперь все наобород, + теперь будет  еще сложнее + за ошибку -3 балла\n удачи тебе)</string>
+    <string name="levelVosiEnd">"так держать! :) \n
+    200 социал рейтинг :3 "</string>
+    <string name="levelDef" >мне надо, целые стекла, вот! \n помоги найти их)</string>
+    <string name="levelDefEnd">"так держать! :) \n
+    400 социал рейтинг :3 "</string>
+    <string name="levelTen" >Я зову на вечеринку только веселых смаликов \n помоги найти их)</string>
+    <string name="levelTenEnd">"так держать! :) \n
+    500 социал рейтинг :3 "</string>
+
+</resources>
